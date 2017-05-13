@@ -1,9 +1,9 @@
 # Site settings
 title: Xosj Apps
-email: your-email@domain.com
+email: prashantyadavsays@gmail.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+description: "Android app developement startup. We make the best android apps. Root Checker, Gender Analyzer, Cricket Schedule"
+skills: "Android App Developer - Programmer - User Experience Designer"
 meta_author: Yadav Prashant
 baseurl: /xosjapps
 
@@ -32,8 +32,8 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
+  copyright: Xosj Apps
+  location: Beverly Hills
   social: Around the Web
   credits: Credits
 
